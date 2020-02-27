@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.DS_Store
+*.csv
+*.pkl
+Digital_Music_new*
